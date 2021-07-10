@@ -36,4 +36,6 @@ Assumptions for Linear Regression are as follows:
 2) 
 <a href="https://www.codecogs.com/eqnedit.php?latex=y&space;=&space;a&space;&plus;&space;b(x)&space;&plus;&space;c(x^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y&space;=&space;a&space;&plus;&space;b(x)&space;&plus;&space;c(x^2)" title="y = a + b(x) + c(x^2)" /></a>
 
-The above equation (with y as dependent variable and x as explanatory variable) is quadratic but it's in linear form and hence can be used as a linear regression model.
+The above equation (with y as dependent variable and x as explanatory variable) is quadratic but it's in linear form and hence can be used as a linear regression model. It can be re-written in this form which may help to understand it better:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;y&space;=&space;a&space;&plus;&space;b(\Theta&space;o)&space;&plus;&space;c(\Theta&space;1)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;y&space;=&space;a&space;&plus;&space;b(\Theta<sub>o</sub>)&space;&plus;&space;c(\Theta<sub>1</sub>;)" title="y = a + b(\Theta o) + c(\Theta 1)" /></a>
