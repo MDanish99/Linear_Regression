@@ -33,7 +33,7 @@ Link to the dataset: https://www.kaggle.com/mirichoi0218/insurance
 Assumptions for Linear Regression are as follows:
 
 1) Linearity: This assumption means that the model should be in a correct functional form, it should be noted that it does not implies that equation should be in linear form. For example:
+2) 
+<a href="https://www.codecogs.com/eqnedit.php?latex=y&space;=&space;a&space;&plus;&space;b(x)&space;&plus;&space;c(x^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y&space;=&space;a&space;&plus;&space;b(x)&space;&plus;&space;c(x^2)" title="y = a + b(x) + c(x^2)" /></a>
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=a&space;&plus;&space;b(x)&space;&plus;&space;c(x^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a&space;&plus;&space;b(x)&space;&plus;&space;c(x^2)" title="a + b(x) + c(x^2)" /></a>
-
-This equation is quadratic but it's in linear form and hence can be used as a linear regression model.
+The above equation (with y as dependent variable and x as explanatory variable) is quadratic but it's in linear form and hence can be used as a linear regression model.
