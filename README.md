@@ -92,3 +92,5 @@ The true model is:
 
 
 
+### References:
+Explanation of Assumptions: https://youtu.be/0MFpOQRY0rw
