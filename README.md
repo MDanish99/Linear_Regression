@@ -38,4 +38,10 @@ Assumptions for Linear Regression are as follows:
 
 The above equation (with y as dependent variable and x as explanatory variable) is quadratic but it's in linear form and hence can be used as a linear regression model. It can be re-written in this form which may help to understand it better:
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;y&space;=&space;a&space;&plus;&space;b(\Theta&space;o)&space;&plus;&space;c(\Theta&space;1)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;y&space;=&space;a&space;&plus;&space;b(\Theta<sub>o</sub>)&space;&plus;&space;c(\Theta<sub>1</sub>;)" title="y = a + b(\Theta o) + c(\Theta 1)" /></a>
+<a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;y&space;=&space;a&space;&plus;&space;b(\Theta{}')&space;&plus;&space;c(\Theta&space;{}'')" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;y&space;=&space;a&space;&plus;&space;b(\Theta{}')&space;&plus;&space;c(\Theta&space;{}'')" title="y = a + b(\Theta{}') + c(\Theta {}'')" /></a>
+
+where 
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=\dpi{150}&space;\Theta&space;{}'=&space;x\:\:&space;\:&space;\:&space;\:&space;\:&space;\:&space;\Theta&space;{}''=&space;x^{2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\dpi{150}&space;\Theta&space;{}'=&space;x\:\:&space;\:&space;\:&space;\:&space;\:&space;\:&space;\Theta&space;{}''=&space;x^{2}" title="\Theta {}'= x\:\: \: \: \: \: \: \Theta {}''= x^{2}" /></a>
+
+
