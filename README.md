@@ -28,3 +28,12 @@ charges: Individual medical costs billed by health insurance
 #### Aim: Predict medical charges (can be also be treated as insurance costs)
 
 Link to the dataset: https://www.kaggle.com/mirichoi0218/insurance
+
+
+Assumptions for Linear Regression are as follows:
+
+1) Linearity: This assumption means that the model should be in a correct functional form, it should be noted that it does not implies that equation should be in linear form. For example:
+
+<a href="https://www.codecogs.com/eqnedit.php?latex=a&space;&plus;&space;b(x)&space;&plus;&space;c(x^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a&space;&plus;&space;b(x)&space;&plus;&space;c(x^2)" title="a + b(x) + c(x^2)" /></a>
+
+This equation is quadratic but it's in linear form and hence can be used as a linear regression model.
