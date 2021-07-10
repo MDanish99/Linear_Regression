@@ -8,7 +8,7 @@ It's important to understand the assumptions of Linear Regression. This tutorial
 
 ### Dataset:
 
-#### Columns
+#### Columns:
 
 age: age of primary beneficiary
 
@@ -26,3 +26,5 @@ region: the beneficiary's residential area in the US, northeast, southeast, sout
 charges: Individual medical costs billed by health insurance
 
 #### Aim: Predict medical charges (can be also be treated as insurance costs)
+
+Link to the dataset: https://www.kaggle.com/mirichoi0218/insurance
