@@ -6,9 +6,9 @@ Linear Regression with one independent variable is often known as 'Simple Linear
 
 It's important to understand the assumptions of Linear Regression. This tutorial will help us to understand the assumptions and we will try to build a linear regression model with a dataset taken from kaggle and then we will try to validate the assumptions.
 
-Dataset Details:
+## Dataset:
 
-## Columns
+### Columns
 
 age: age of primary beneficiary
 
@@ -24,3 +24,5 @@ smoker: Smoking
 region: the beneficiary's residential area in the US, northeast, southeast, southwest, northwest.
 
 charges: Individual medical costs billed by health insurance
+
+### Aim: Predict medical charges (can be also be treated as insurance costs)
