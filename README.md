@@ -82,7 +82,7 @@ Let's say we create the model:
 
 In the above model, 𝑦 is wages and 𝑥 is a metric that is an indicator for a college degree. Let's suppose there is some other ability and we are not aware of it. We will be using the above model while the true model would be one mentioned below.
 
-The true model is:
+The true model is: 
 <a href="https://www.codecogs.com/eqnedit.php?latex=y&space;=&space;\alpha&space;&plus;&space;\beta&space;x&space;&plus;&space;\gamma&space;z&space;&plus;&space;\epsilon" target="_blank"><img src="https://latex.codecogs.com/gif.latex?y&space;=&space;\alpha&space;&plus;&space;\beta&space;x&space;&plus;&space;\gamma&space;z&space;&plus;&space;\epsilon" title="y = \alpha + \beta x + \gamma z + \epsilon" /></a>
 
 𝑧 is some metric which measures the ability. If wages are a function of both education and ability, and college graduates are expected to have higher ability because college tends to attract and admit higher ability students, then if one were to run a simple regression of wages on education, the strict exogeneity assumption would be violated. In that case, we cannot use the model to infer causation.
